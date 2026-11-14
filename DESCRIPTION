@@ -1,7 +1,7 @@
 Package: hackR
 Title: Provides misc functions (like Hmisc)
 Version: 0.1
-Authors@R: "Jason Miller <root@paloalto.io> [aut, cre]"
+Authors@R: "Ason Peikoff <root@paloalto.io> [aut, cre]"
 Description: Provides misc functions (like Hmisc). More soon.
 Depends:
     R (>= 3.1.0)
